@@ -1,8 +1,8 @@
-# ekampf does dotfiles
+# david0673 does dotfiles
 
 ## dotfiles
 
-@ekampf's dotfiles
+@david0673's dotfiles
 Your dotfiles are how you personalize your system. These are mine.
 
 
@@ -22,7 +22,7 @@ Run the bootstrap script:
 
 #### Personalize
 
-I keep all my project files at ~/Documents/workspace. You probably don't...
+I keep all my project files at ~/workspace. You might not...
 So the first thing to do in order to get things working is to override the $WORKSPACE environment variable:
 
     echo "export WORKSPACE=\"... whatever path you use ...\"" > ~/.zshenv.local
@@ -42,7 +42,7 @@ For example, your `~/.aliases.local` might look like this:
     alias todo='$EDITOR ~/.todo'
 
     # Easy Folder access
-    alias go='cd $HOME/Documents/workspace'
+    alias go='cd $HOME/workspace'
 
 And so on...
 
