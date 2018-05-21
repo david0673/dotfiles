@@ -16,7 +16,7 @@
       "desktop.ini"
       ".venv/"
     ]
-    projectHome: "/Users/ekampf/workspace"
+    projectHome: "/Users/dh/workspace"
     telemetryConsent: "limited"
     themes: [
       "seti-ui"
