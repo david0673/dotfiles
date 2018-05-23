@@ -1,3 +1,5 @@
+[[ -s "$HOME/.bash_profile" ]] && source "$HOME/.bash_profile" # Load the default .bash_profile
+
 plugins=(git bundler brew gem rbates rvm nvm pip bower capistrano python osx textmate sublime react-native)
 
 # Set to this to use case-sensitive completion
