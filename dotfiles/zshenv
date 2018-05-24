@@ -14,6 +14,7 @@ export WORKSPACE="$HOME/workspace/"
 export GOPATH="$WORKSPACE/gopath/"
 
 export PATH="$PATH:$GOPATH/bin"
+export PROFILE="$HOME/.zshrc"
 
 # Fix PIP's annoying "ValueError: unknown locale: UTF-8"
 export LC_ALL=en_US.UTF-8
